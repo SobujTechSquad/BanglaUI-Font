@@ -12,7 +12,7 @@
 @import "./FontCSS/apona-lohit.css";
 @import "./FontCSS/alinur-tatsama.css";
 @import "./FontCSS/alinur-borno-bikash.css";
-@import "./FontCSS/hind-siliguri.css";
+@import "./FontCSS/sobuj-khan.css";
 @import "./FontCSS/alinur-subas.css";
 @import "./FontCSS/lipishree.css";
 @import "./FontCSS/charukola.css";
@@ -41,7 +41,7 @@ body {
   justify-content: right;
   height: 100%;
   color: #ffffff;
-  font-family: "Space Grotesk", "Hind Siliguri", sans-serif;
+  font-family: "Space Grotesk", "Sobuj Khan", sans-serif;
 }
 .avtar {
   height: 50px;
@@ -89,7 +89,7 @@ body {
   align-items: center;
   padding: 0 30px;
   border-radius: 15px;
-  font-family: "Space Grotesk", "Hind Siliguri", sans-serif;
+  font-family: "Space Grotesk", "Sobuj Khan", sans-serif;
 }
 .font-input {
   width: 100%;
@@ -109,7 +109,7 @@ body {
   margin-bottom: 20px;
   box-shadow: 4px 4px 30px 0 rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  font-family: "Space Grotesk", "Hind Siliguri", sans-serif;
+  font-family: "Space Grotesk", "Sobuj Khan", sans-serif;
 }
 .font-box-content {
   position: inherit;
