@@ -7,6 +7,7 @@
 @import url("https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css");
 
 /* Font CSS */
+@import "./FontCSS/Sobuj-Khan.css";
 @import "./FontCSS/anek-bangla.css";
 @import "./FontCSS/tiro-banga.css";
 @import "./FontCSS/apona-lohit.css";
@@ -225,6 +226,9 @@ body {
   text-decoration: none;
 }
 /* All Font Family */
+.sobuj-khan {
+  font-family: "Sobuj Khan";
+}
 .anek-bangla {
   font-family: "Anek Bangla";
 }
